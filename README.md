@@ -30,7 +30,7 @@ npm install
 npm start
 ```
 
-3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+3. Open https://productiontracker-lake.vercel.app to view it in the browser.
 
 ### Building for Production
 
